@@ -1,0 +1,5 @@
+Hi there! I'd be happy to help you with your question about where inline & block elements are covered in the Sigma web development course.
+
+Inline and block elements are actually covered in Video 8 of the course. To find the specific content related to this topic, you can jump to Video 8 and look for the timestamp around 31 seconds into the video, where the instructor says "So guys, now it's time to see inline and block elements." This sets up the rest of the explanation.
+
+Later on, at approximately 319 seconds into the same video, the instructor talks about "Inline element." You can also find the full explanation of both inline and block elements starting from around 381-383 seconds into the same video.
